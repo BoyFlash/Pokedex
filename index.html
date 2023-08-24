@@ -3,9 +3,22 @@
 <head>
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <!-- <link rel="shortcut icon" href="./img/nauseated-face_1f922.png" type="image/x-icon"> -->
    <title>Pokedex</title>
 </head>
 <body>
-   <h1></h1>
+   <button id="btnTeste" type="button">Teste</button>
+
+
+   <script>
+      // window. se refere ao browser
+      // document. é o documento corrente ou seja este html
+
+      const btnTeste = document.getElementById("btnTeste");
+      btnTeste.addEventListener("click", function() {
+         alert('Você Clicou no botão');
+      });
+      // console.log(btnTeste);
+   </script>
 </body>
 </html>
