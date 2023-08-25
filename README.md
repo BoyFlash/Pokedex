@@ -26,3 +26,7 @@ Depois de instalado basta subir o servidor digitando o seguinte comando no termi
 http-server ./
 ```
 E você poderá acessar em localhost pelo endereço  http://127.0.0.1:8080
+
+
+Como ver os detalhes do pokemon na pokeapi.co. 
+- https://pokeapi.co/api/v2/pokemon/{id or name}/
