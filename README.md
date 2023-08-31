@@ -2,8 +2,8 @@
 
 O objetivo deste projeto é criar uma lista de pokémons em ordem crescente. Cada item da lista deve conter imagem, número, nome e tipo.
 
-<a target="_blank" rel="noopener noreferrer" href="">
-    <img src="" alt="Lista Pokemon" style="max-width: 40%;">
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/BoyFlash/Pokedex/main/img/Pokedex.JPG">
+    <img src="https://raw.githubusercontent.com/BoyFlash/Pokedex/main/img/Pokedex.JPG" alt="Lista Pokemon" style="max-width: 40%;">
 </a> </br>
 
 ## ⌨️ Como executar o projeto
